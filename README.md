@@ -4,5 +4,5 @@
 
 ## How it works
 
-To compile sass files: `npm run sass`
+To compile sass files: `npm run sass`\
 To watch for changes: `npm run watch`
