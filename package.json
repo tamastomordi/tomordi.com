@@ -1,0 +1,15 @@
+{
+  "name": "tomordi.com",
+  "version": "1.0.0",
+  "description": "Personal website of Tamás Tömördi",
+  "main": "public/index.html",
+  "scripts": {
+    "sass": "sass --no-source-map sass:public",
+    "watch": "sass --no-source-map --watch sass:public"
+  },
+  "author": "Tamás Tömördi",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.12"
+  }
+}
